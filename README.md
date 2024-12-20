@@ -8,3 +8,4 @@
 - Radix UI (Primitives)
 - TypeScript
 - ESLint@9
+- Cloudflare Pages

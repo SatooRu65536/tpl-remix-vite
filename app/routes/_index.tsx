@@ -1,4 +1,4 @@
-import type { MetaFunction } from '@remix-run/node';
+import type { MetaFunction } from '@remix-run/cloudflare';
 import Button from '@/components/Button';
 import Dialog from '@/components/Dialog';
 import { useCallback, useState } from 'react';
