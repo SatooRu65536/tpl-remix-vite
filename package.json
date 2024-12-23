@@ -9,8 +9,7 @@
     "lint": "eslint . --fix",
     "lint:check": "eslint .",
     "preview": "pnpm run build && wrangler pages dev",
-    "start": "wrangler pages dev ./build/client",
-    "typecheck": "tsc"
+    "start": "wrangler pages dev ./build/client"
   },
   "dependencies": {
     "@radix-ui/react-dialog": "^1.1.4",
